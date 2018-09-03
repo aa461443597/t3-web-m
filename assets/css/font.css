@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+    font-family: zaozigongfang;
+    src: url('../font/zaozigongfang.otf'),
+        url('../font/zaozigongfang.ttf');
+}
+
+@font-face{
+    font-family: helvetica;
+    src: url('../font/Helvetica.otf');
+}
+
+@font-face{
+    font-family: lantingxihei;
+    src: url('../font/lantingxihei.otf');
+}
